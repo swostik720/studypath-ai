@@ -1,0 +1,401 @@
+[
+  {
+    "question": "How long is a blocked account usually opened for?",
+    "answerable": true,
+    "expected_sources": [
+      "aa-sperrkonto"
+    ],
+    "key_facts": [
+      [
+        "year",
+        "12 months"
+      ]
+    ],
+    "reference": "Usually one year, unless the planned stay is shorter."
+  },
+  {
+    "question": "Who is the account beneficiary of a blocked account?",
+    "answerable": true,
+    "expected_sources": [
+      "aa-sperrkonto"
+    ],
+    "key_facts": [
+      [
+        "mission abroad",
+        "embassy"
+      ],
+      [
+        "foreigners authority",
+        "foreigners office"
+      ]
+    ],
+    "reference": "The mission abroad before the visa is granted/used, the foreigners authority after arrival."
+  },
+  {
+    "question": "How do I close a blocked account if my visa application was rejected?",
+    "answerable": true,
+    "expected_sources": [
+      "aa-sperrkonto"
+    ],
+    "key_facts": [
+      [
+        "rejection notice"
+      ]
+    ],
+    "reference": "The rejection notice is sufficient to lift the blocking notice."
+  },
+  {
+    "question": "Do I have to pay bank fees on top of the amount in the blocked account?",
+    "answerable": true,
+    "expected_sources": [
+      "aa-sperrkonto"
+    ],
+    "key_facts": [
+      [
+        "fee"
+      ]
+    ],
+    "reference": "Yes, the requisite banking fees are payable in addition."
+  },
+  {
+    "question": "Where can I find out how much money has to be paid into the blocked account?",
+    "answerable": true,
+    "expected_sources": [
+      "aa-sperrkonto"
+    ],
+    "key_facts": [
+      [
+        "mission abroad",
+        "consular services portal"
+      ]
+    ],
+    "reference": "On the website of the competent mission abroad or in the Consular Services Portal."
+  },
+  {
+    "question": "Besides a blocked account, how else can I prove that I can finance my studies for a student visa?",
+    "answerable": true,
+    "expected_sources": [
+      "aa-visa-faq"
+    ],
+    "key_facts": [
+      [
+        "parents",
+        "declaration of commitment",
+        "bank guarantee",
+        "scholarship"
+      ]
+    ],
+    "reference": "Parents' income, a declaration of commitment, a blocked account, a bank guarantee, or a scholarship."
+  },
+  {
+    "question": "Do I need a visa before entering Germany if I want to study for more than 90 days?",
+    "answerable": true,
+    "expected_sources": [
+      "aa-visa-faq"
+    ],
+    "key_facts": [
+      [
+        "visa"
+      ],
+      [
+        "before"
+      ]
+    ],
+    "reference": "Yes, non-exempt foreigners need a visa before entering Germany."
+  },
+  {
+    "question": "Which authority has to approve a student visa application?",
+    "answerable": true,
+    "expected_sources": [
+      "aa-visa-faq"
+    ],
+    "key_facts": [
+      [
+        "foreigners authority",
+        "aliens authority",
+        "alien"
+      ]
+    ],
+    "reference": "The foreigners authority in the university town must approve before the mission issues the visa."
+  },
+  {
+    "question": "How long can it take to get a student visa?",
+    "answerable": true,
+    "expected_sources": [
+      "aa-visa-faq"
+    ],
+    "key_facts": [
+      [
+        "weeks"
+      ]
+    ],
+    "reference": "Several weeks, in individual cases even months."
+  },
+  {
+    "question": "How long does my passport need to be valid when I enter Germany?",
+    "answerable": true,
+    "expected_sources": [
+      "aa-visa-faq"
+    ],
+    "key_facts": [
+      [
+        "three months",
+        "3 months"
+      ]
+    ],
+    "reference": "At least three months beyond the planned departure date, and issued within the last 10 years."
+  },
+  {
+    "question": "What are the steps to apply through uni-assist?",
+    "answerable": true,
+    "expected_sources": [
+      "ua-6-steps"
+    ],
+    "key_facts": [
+      [
+        "my assist"
+      ],
+      [
+        "fee",
+        "pay"
+      ]
+    ],
+    "reference": "Six steps: get information, plan, assemble documents, apply online in My assist, pay fees, send and track."
+  },
+  {
+    "question": "How early should I apply via uni-assist before the deadline?",
+    "answerable": true,
+    "expected_sources": [
+      "ua-sending",
+      "ua-faq-send-track"
+    ],
+    "key_facts": [
+      [
+        "8 weeks",
+        "eight weeks"
+      ]
+    ],
+    "reference": "At least 8 weeks before the deadline, if possible."
+  },
+  {
+    "question": "How long does uni-assist take to deliver the evaluation result?",
+    "answerable": true,
+    "expected_sources": [
+      "ua-faq-send-track"
+    ],
+    "key_facts": [
+      [
+        "4 to 6 weeks",
+        "4-6 weeks",
+        "four to six"
+      ]
+    ],
+    "reference": "Usually 4 to 6 weeks from receipt of the online application form."
+  },
+  {
+    "question": "In what file format should I upload my documents to uni-assist?",
+    "answerable": true,
+    "expected_sources": [
+      "ua-sending"
+    ],
+    "key_facts": [
+      [
+        "pdf"
+      ]
+    ],
+    "reference": "Scans saved as PDF files, complete and legible."
+  },
+  {
+    "question": "Do I need to send my documents to uni-assist by post?",
+    "answerable": true,
+    "expected_sources": [
+      "ua-sending",
+      "ua-faq-send-track"
+    ],
+    "key_facts": [
+      [
+        "digital",
+        "upload",
+        "no need",
+        "not need",
+        "do not"
+      ]
+    ],
+    "reference": "No, the application is fully digital via My assist."
+  },
+  {
+    "question": "What should I do if my certificates were not issued in German or English?",
+    "answerable": true,
+    "expected_sources": [
+      "ua-faq-documents",
+      "ua-other-documents"
+    ],
+    "key_facts": [
+      [
+        "translat"
+      ]
+    ],
+    "reference": "They generally have to be translated into German or English (certified translation)."
+  },
+  {
+    "question": "If I apply to several universities through uni-assist, do I have to upload each document multiple times?",
+    "answerable": true,
+    "expected_sources": [
+      "ua-sending",
+      "ua-faq-documents"
+    ],
+    "key_facts": [
+      [
+        "once"
+      ]
+    ],
+    "reference": "No, each document needs to be uploaded only once."
+  },
+  {
+    "question": "What does VPD stand for in the uni-assist process?",
+    "answerable": true,
+    "expected_sources": [
+      "ua-6-steps",
+      "ua-faq-apply-online",
+      "ua-faq-send-track",
+      "ua-faq-documents",
+      "tum-dea"
+    ],
+    "key_facts": [
+      [
+        "preliminary"
+      ]
+    ],
+    "reference": "Preliminary review documentation (Vorprüfungsdokumentation)."
+  },
+  {
+    "question": "What must be written at the top of a letter of motivation for uni-assist?",
+    "answerable": true,
+    "expected_sources": [
+      "ua-other-documents",
+      "ua-sending"
+    ],
+    "key_facts": [
+      [
+        "university"
+      ],
+      [
+        "bold"
+      ]
+    ],
+    "reference": "The chosen university and course of study, visibly and in bold print."
+  },
+  {
+    "question": "What are the application periods for the Data Engineering and Analytics master's at TUM?",
+    "answerable": true,
+    "expected_sources": [
+      "tum-dea"
+    ],
+    "key_facts": [
+      [
+        "31.05",
+        "31 may"
+      ],
+      [
+        "30.11",
+        "30 november"
+      ]
+    ],
+    "reference": "Winter semester 01.02.-31.05.; summer semester 01.10.-30.11."
+  },
+  {
+    "question": "How high are the tuition fees for international students in TUM's Data Engineering and Analytics master's?",
+    "answerable": true,
+    "expected_sources": [
+      "tum-dea"
+    ],
+    "key_facts": [
+      [
+        "6,000",
+        "6000"
+      ]
+    ],
+    "reference": "6,000 euros per semester for students from third countries."
+  },
+  {
+    "question": "What is the language of instruction in TUM's Data Engineering and Analytics master's?",
+    "answerable": true,
+    "expected_sources": [
+      "tum-dea"
+    ],
+    "key_facts": [
+      [
+        "english"
+      ]
+    ],
+    "reference": "Usually English."
+  },
+  {
+    "question": "How many ECTS credits does the TUM Data Engineering and Analytics master's have?",
+    "answerable": true,
+    "expected_sources": [
+      "tum-dea"
+    ],
+    "key_facts": [
+      [
+        "120"
+      ]
+    ],
+    "reference": "120 ECTS over 4 semesters."
+  },
+  {
+    "question": "How does TUM select applicants for its master's programs?",
+    "answerable": true,
+    "expected_sources": [
+      "tum-dea"
+    ],
+    "key_facts": [
+      [
+        "aptitude"
+      ]
+    ],
+    "reference": "Through an aptitude assessment procedure."
+  },
+  {
+    "question": "Do I need an APS certificate as a Nepali student?",
+    "answerable": false,
+    "expected_sources": [],
+    "key_facts": [],
+    "reference": "Not covered by the collected official documents; sources online conflict. Correct behaviour: say it does not know."
+  },
+  {
+    "question": "What IELTS score does TUM require for the Data Engineering and Analytics master's?",
+    "answerable": false,
+    "expected_sources": [],
+    "key_facts": [],
+    "reference": "The TUM page says English proof is needed but gives no score. Correct behaviour: say it does not know."
+  },
+  {
+    "question": "What exact amount in euros do I have to deposit in the blocked account this year?",
+    "answerable": false,
+    "expected_sources": [],
+    "key_facts": [],
+    "reference": "The documents say the amount varies and must be checked with the mission; no figure is given."
+  },
+  {
+    "question": "How much does a German student visa application cost?",
+    "answerable": false,
+    "expected_sources": [],
+    "key_facts": [],
+    "reference": "No visa fee is stated in the documents."
+  },
+  {
+    "question": "What are the tuition fees at Heidelberg University?",
+    "answerable": false,
+    "expected_sources": [],
+    "key_facts": [],
+    "reference": "Heidelberg is not in the collection."
+  },
+  {
+    "question": "Who won the 2022 football World Cup?",
+    "answerable": false,
+    "expected_sources": [],
+    "key_facts": [],
+    "reference": "Off-topic."
+  }
+]
