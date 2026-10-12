@@ -1,0 +1,7 @@
+__pycache__
+*.pyc
+tests
+eval
+scripts
+.pytest_cache
+.ruff_cache

@@ -1,0 +1,81 @@
+# One command: docker compose up --build
+# First start downloads the embedding model and the Ollama model (a few GB); see README.
+services:
+  postgres:
+    image: pgvector/pgvector:pg16
+    environment:
+      POSTGRES_USER: studypath
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-studypath}
+      POSTGRES_DB: studypath
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U studypath"]
+      interval: 5s
+      retries: 10
+
+  mongo:
+    image: mongo:7
+    volumes:
+      - mongodata:/data/db
+    healthcheck:
+      test: ["CMD", "mongosh", "--quiet", "--eval", "db.runCommand({ ping: 1 })"]
+      interval: 5s
+      retries: 10
+
+  ollama:
+    image: ollama/ollama:latest
+    volumes:
+      - ollama:/root/.ollama
+
+  ollama-pull:
+    image: ollama/ollama:latest
+    depends_on: [ollama]
+    environment:
+      OLLAMA_HOST: http://ollama:11434
+    entrypoint: ["ollama", "pull", "${OLLAMA_MODEL:-qwen2.5:3b}"]
+    restart: "no"
+
+  rag:
+    build: ./rag-service
+    depends_on:
+      postgres: { condition: service_healthy }
+      ollama: { condition: service_started }
+    environment:
+      DATABASE_URL: postgresql://studypath:${POSTGRES_PASSWORD:-studypath}@postgres:5432/studypath
+      VECTOR_STORE: pgvector
+      LLM_PROVIDER: ollama
+      OLLAMA_BASE_URL: http://ollama:11434
+      OLLAMA_MODEL: ${OLLAMA_MODEL:-qwen2.5:3b}
+    volumes:
+      - hfcache:/models/hf
+    # Ingest (idempotent) on every start, then serve.
+    command: ["sh", "-c", "python -m app.ingest && uvicorn app.main:app --host 0.0.0.0 --port 8000"]
+
+  gateway:
+    build: ./gateway
+    depends_on:
+      mongo: { condition: service_healthy }
+      rag: { condition: service_started }
+    environment:
+      PORT: 4000
+      MONGO_URL: mongodb://mongo:27017/studypath
+      RAG_URL: http://rag:8000
+      CORS_ORIGIN: http://localhost:3000
+    ports:
+      - "4000:4000"
+
+  frontend:
+    build:
+      context: ./frontend
+      args:
+        NEXT_PUBLIC_API_URL: http://localhost:4000
+    depends_on: [gateway]
+    ports:
+      - "3000:3000"
+
+volumes:
+  pgdata:
+  mongodata:
+  ollama:
+  hfcache:
