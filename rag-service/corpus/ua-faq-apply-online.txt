@@ -1,0 +1,151 @@
+TITLE: FAQs: Apply online - uni-assist
+URL: https://www.uni-assist.de/en/faqs/apply-online/
+RETRIEVED: 2026-10-13
+
+FAQs
+Apply online
+General information
+Application
+Upload
+Troubleshooting
+Making changes or deletions
+Status
+General information
+Yes. The application via uni-assist is fully digital. Simply upload all of the required documents in your
+My assist account
+.
+The processing time for your documents begins once you have submitted an online application form.
+Creating multiple accounts may cause problems with your application.
+Please use only one My assist account for your applications.
+Please do not register multiple times.
+Application
+You can easily create the application form yourself in
+My assist
+:
+1. Select your chosen course of study using the search function.
+Tip:
+Select only your chosen semester and university. You will then see the university’s entire course offer. Then choose your course of study from the results list.
+If you are applying for a
+preliminary review documentation (VPD)
+, the application may show only the academic field "alle Fächer" (= all subjects) in the results list for some universities.
+2. Go to your “Selection list” by clicking on the box symbol. Click on “Show additional application-related questions” and answer the questions completely and truthfully.
+Note:
+The universities supply the application forms, so the questions may vary from university to university.
+3. Submit your application by paying the handling fee.
+To apply for a
+preparatory German language course
+or the
+DSH
+exam, you generally have to first apply for a course of study in
+My assist
+. Select the course you want to study after the German course or
+DSH
+exam. To do so, use the search below “
+Search courses of study
+”:
+Select just your chosen semester and university. You will then see the university’s entire course offer.
+You found your chosen course of study? Then click on “
+Select
+.” Fill in the application form completely and truthfully.
+Do you see the question “Are you applying for admission to the
+DSH
+exam / a German language course?” Answer „Yes“ to this question.
+You do not see the question? We will then process this application as an application for the
+DSH
+exam or the German language course automatically.
+Two additional notes:
+uni-assist is not automatically responsible for all applications for the
+DSH
+exam or German course at a uni-assist university. Please find out from the
+university
+directly whether you should apply for their
+DSH
+exam or German course via uni-assist. If so, also ask whether the university uses a separate application form for their
+DSH
+exam or German course in My assist.
+Please also find out the requirements for attending a German language course or the
+DSH
+exam from the university.
+More information:
+Preparatory German language course
+To apply for the
+Studienkolleg
+(preparatory course), you usually have to first apply for a course of study in
+My assist
+. Select the course you want to study after the
+Studienkolleg
+. To do so, use the search below “
+Search courses of study
+”:
+Select only your chosen semester and university. You will then see the university’s entire course offer.
+You found your chosen course of study? Then click on “
+Select
+.” Select your chosen
+course semester
+and click on “
+Add to selection
+.” Go to your “
+Selection list
+” by clicking on the box symbol. Fill in the application form completely and truthfully.
+Do you see the question “Are you applying for admission to a
+Studienkolleg
+?” Answer "Yes" to this question.
+You do not see the question? If you need to attend a
+Studienkolleg
+before your studies, we will process this application as an application for the
+Studienkolleg
+automatically.
+Two additional notes:
+Please find out the requirements for attending a
+Studienkolleg
+from your
+chosen university
+.
+uni-assist is not automatically responsible for all applications to the
+Studienkolleg
+at a uni-assist university. Please find out from the university directly whether you should apply for the
+Studienkolleg
+via uni-assist.
+More information:
+Studienkolleg - preparatory course
+Try the following solution if you cannot find your chosen course of study:
+Choose fewer search parameters in the search below “
+Search courses of study
+.“ Select only your chosen semester and university. You will then see the university‘s entire current study offer.
+Please note:
+The application via My assist is only possible once your chosen university has activated the applications. Only then you can create an application. Please check with the
+university
+when they will activate applications in My assist.
+This can happen for the following reason:
+The application period for your chosen study course may not have begun yet. Please find out from the university when they will activate the online application for your chosen course in My assist.
+There may be several reasons for this.
+1. Please check that you have answered all the mandatory questions. Only after doing so can you pay for and submit your online application to uni-assist.
+2. We use the 3D Secure system for credit card payments. To use this system, you need to be signed up for the 3D Secure system. For more information, please contact your bank.
+3. If you enter the wrong data three times, you will be locked out of our payment provider's website for one hour for security reasons. Please try again after one hour has passed.
+Upload
+If you want to upload documents, please note the following:
+You can only upload pdf files.
+Each file can be a maximum of 10 MB in size.
+A firewall may prevent the uploading of your documents. If so, you will see the error message “Bad Request”. Disable your firewall or try to upload the files from a different computer.
+Once we have already processed your documents, you can no longer delete them.
+Do you want to update a document that we have already processed? Then simply upload a newer version. We will then take the newest version into consideration when processing your application documents.
+You can upload an individual
+letter of motivation
+or
+CV
+for each application. If you want to use the same version for all of your applications, one copy of each will be sufficient.
+Do you want to upload an individual document for a specific application? Simply name the university and course of study you are applying to, visibly and in bold print, at the very top of your document. We will then be able to assign that document to the right university.
+We do not send an automatic confirmation of receipt for documents you upload.
+In your My assist account under “My Applications“ / “Documents“ you can see all the documents that you have uploaded.
+We can see your uploads and will use them in the processing of your applications.
+Troubleshooting
+Please do not register again. Simply visit the “
+Forgot password
+” page.
+Enter the email address you used to register in My assist and solve the captcha.
+You will then receive an email to reset your password.
+After the registration, you received an activation link via email. The activation link is valid for 24 hours.
+Check to see whether the email is in your spam folder.
+Did you not receive an activation email or has the activation link expired? Then please register again. You will then receive a new activation link from us.
+Making changes or deletions
+Status

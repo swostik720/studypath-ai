@@ -1,0 +1,163 @@
+TITLE: Data Engineering and Analytics (M.Sc.) - Technical University of Munich
+URL: https://www.tum.de/en/studies/degree-programs/detail/data-engineering-and-analytics-master-of-science-msc
+RETRIEVED: 2026-10-13
+
+Master of Science (M.Sc.)
+Data Engineering and Analytics
+“Big Data” is the driving force behind groundbreaking developments – from machine learning to autonomous vehicles and biotechnology. Students in this program learn to manage, analyze and process very large amounts of data using innovative computer science techniques.
+Course Homepage
+Key Data
+Type of Study
+Full-time
+Standard Duration of Studies
+4
+semesters (fulltime)
+Credits
+120 ECTS
+Main Locations
+Garching
+Application Period
+Winter semester: 01.02. – 31.05.
+Summer semester: 01.10. – 30.11.
+Admission Category
+Aptitude Assessment for Master
+Start of Degree Program
+Possible for both winter and summer semester
+Costs
+Student Fees:
+97.00 €
+Tuition fees for international students
+Required Language Proficiency
+English
+Information on Degree Program
+Handling and analyzing very large amounts of data is an urgent problem in many areas of science and industry and requires novel approaches and techniques. The trend towards “Big Data” is caused by a host of developments: Firstly, the creation and storage of large data sets becomes feasible and economically viable, for example due to price decreases in storage space, sensors, smart devices, social networks and many more. Secondly, technical advances for example in multi-core systems and cloud computing make it possible to examine data sets at large scale. And thirdly, such amounts of data do not only origin in the “classical” domains like business data, but now are created in many areas of life. Consider vehicles, that create sensor data and share information via intelligent networking, or consider data that is created by intelligent energy grids.
+The master program Data Engineering and Analytics steps up to these developments and provides an education that on the one hand enables graduates to design and plan industry grade solutions in the area of Big Data, on the other hand creates a solid starting point for ventures into research.
+For a comprehensive description of the program, please refer to the degree program documentation:
+Degree program documentation for the master's program in Data Engineering and Analytics (PDF, German)
+Which professional opportunities can I take up with this qualification?
+The master’s programs “Mathematics in Data Science” and “Data Engineering and Analytics” offer access to many career opportunities including: research, consulting, IT security, systems design, and data science in industry. The respective departments offer Ph.D. positions that are the pathway to a career in research. Typical job profiles in industry include data analysts and data engineers. Data engineers master very large databases and distributed information systems and are responsible for IT security and applied data analytics for structuring data. Data analysts filter and extract information from large data sets based on statistical and mathematical methods and tailor them towards informed strategic decisions
+The program is divided into three areas of study: Data Analysis, Data Engineering and Analytics and Data Engineering. The first area is concerned with fundamentals of understanding and modelling data and the underlying relationships. Data Engineering consists of lectures about the construction of systems that perform efficient and scalable data processing, thus enable the methods of Data Analysis on large data sets.
+The curriculum comprises mandatory courses on Data Analysis and Data Engineering. Advanced lectures are offered in these area of studies: Data Engineering contains lectures about distributed systems, distributed databases, query optimization, database systems on modern CPU architectures and high performance computing. Data Engineering and Analytics offers lectures about machine learning, business analytics, computer vision and scientific visualization. Data Analysis is concerned with topics that require solid mathematical foundations: Fundamentals of Convex Optimization, Computational Statistics and more.
+Program structure & Overview of modules
+Required language skills for admission:
+You need sufficient English language skills if you wish to apply for this program. Evidence of your language proficiency has to be submitted before the end of the application deadline.
+Learn more about recognized certificates and other ways to prove your English language skills
+.
+This evidence of your language proficiency confirms that you comply with the minimum language requirements for admission to the program. Depending on the program and your individual background, it may be necessary for you to keep working on your language skills during your studies.
+Be sure to take a look at the services of our Language Center.
+Language of instruction:
+The language of instruction for this program is usually English. This means that most of the modules are offered in English. Some courses may, however, be taught in German.To learn more about the language of instruction for each module, contact the departmental student academic advisor of this program.
+Information on exams
+Information on studying abroad
+The tuition fees for international students from third countries for this degree program are
+6,000 euros per semester
+.
+Many international students can have their fees waived or receive scholarships to finance them. You can find
+all information on waivers and scholarships
+here.
+Please note: The
+semester fee
+as a contribution to the student union must be paid additionally. It varies depending on where you are studying. You can find
+all information on the semester fee
+here.
+Academic Regulations: Application, Studying and Exams
+General Academic and Examination Regulations
+Academic and Examination Regulations
+(PDF 279 KB)
+All regulations and legal framework concerning studies
+Application and Admission
+Minimum requirements to apply for a Master’s program at TUM are a recognized undergraduate degree (e.g. a Bachelor’s) and the successful completion of the aptitude assessment procedure. The aptitude assessment allows the TUM school to which you are applying to evaluate your individual talents and motivation for study.
+During the
+application
+period, you must apply through the
+TUMonline application portal
+and upload your application documents.
+Here you will find detailed information on the requirements for the documents you need to upload for application and admission to TUM.
+Generally, applicants with a qualification for postgraduate studies (e.g. a Bachelor’s) obtained outside of Germany must have their documents
+reviewed in advance through uni-assist (Preliminary Documentation).
+In detail:
+Applying for a Master’s program: Application, admission requirements and more
+Important information about your application from the TUM school
+Degree Certificate and Diploma or Subject and Grade Transcript of Studies to Date
+Transcript of Records
+Proof of English Language Proficiency
+Statement of purpose (Letter of Motivation)
+Essay
+Curriculum (e.g. module description)
+Curricular Analysis
+Complete and Current Résumé
+Passport
+Preliminary Documentation (VPD) if the qualification for graduate studies (e.g. a Bachelor’s) was obtained outside Germany)
+We may require additional documents depending on your educational background and your
+country of origin
+. Complete the online application to receive a comprehensive list of the required documents.
+Application for Enrollment (signed)
+Degree Certificate and Diploma (authentic document)
+Transcript of Records (authentic document)
+Most Current Photo (as for ID)
+Digital notification of your health insurance status from a German public health insurance provider (requested by applicant)
+We may require additional documents depending on the type of educational background you earned and your
+country of origin
+.
+Application period for winter semester: 01.02. – 31.05.
+Application period for summer semester: 01.10. – 30.11.
+During the application period, you must apply through the
+TUMonline application portal
+and upload your application documents. Please be aware that we can only process your application if you upload all required documents
+within the application period.
+We will review your application as soon as it is complete. Please check your
+TUMonline account
+regularly, to see if we have any queries to your documents or if you have to amend one or more documents.
+After receiving admission, you will see in
+TUMonline
+which documents you have to submit for
+enrollment
+, and in which form.
+We recommend that you submit the documents for enrollment as soon as possible after receiving admission. If individual documents are not available by then, you can submit them up to 5 weeks after the start of the lecture period. You will, however, only be enrolled once we have received
+all documents
+.
+You can check the status of your application at any time in your
+TUMonline account.
+Selection takes place through an aptitude assessment procedure. The aptitude assessment is a two-part procedure after the submission of an official application to a program. In this procedure, the TUM school determines whether you meet the specific requirements for its Master’s degree program.
+In the
+initial stages
+, the grades you obtained during your Bachelor’s program, as well as your written documents, will be evaluated using a
+point system
+. Depending on the
+amount of points accumulated
+, applicants are either
+immediately admitted
+,
+rejected
+, or invited to an
+admissions interview
+.
+Aptitude Assessment for Master
+Description of the Aptitude Assessment (German)
+(PDF 169 KB)
+back to results
+TUM School of Computation, Information and Technology
+General Student Advising & Student Information
+Questions about application and admission
+studium
+spam prevention
+@tum.de
++49 89 289 22245
+Arcisstr. 21,
+Room 0144
+Contact Hours
+General Student Advising
+Appointments by arrangement in advance
+Departmental Student Advising
+Admission and application
+mscapp-in.asa
+spam prevention
+@xcit.tum.de
+Boltzmannstr. 3, 85748 Garching
+Academic advising
+academic-advising-in.asa
+spam prevention
+@xcit.tum.de
+Boltzmannstr. 3, 85748 Garching
+Online Application
+Barrier-Free Education
