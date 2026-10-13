@@ -1,0 +1,682 @@
+{
+  "retrieval": {
+    "n_answerable": 24,
+    "hit@1": 0.9583333333333334,
+    "hit@3": 0.9583333333333334,
+    "hit@4": 0.9583333333333334,
+    "mrr": 0.9583333333333334
+  },
+  "gate_by_threshold": {
+    "0.2": {
+      "answerable_wrongly_refused": 0,
+      "unanswerable_wrongly_passed": 5
+    },
+    "0.25": {
+      "answerable_wrongly_refused": 0,
+      "unanswerable_wrongly_passed": 5
+    },
+    "0.3": {
+      "answerable_wrongly_refused": 0,
+      "unanswerable_wrongly_passed": 5
+    },
+    "0.35": {
+      "answerable_wrongly_refused": 0,
+      "unanswerable_wrongly_passed": 5
+    },
+    "0.4": {
+      "answerable_wrongly_refused": 0,
+      "unanswerable_wrongly_passed": 5
+    },
+    "0.45": {
+      "answerable_wrongly_refused": 0,
+      "unanswerable_wrongly_passed": 5
+    },
+    "0.5": {
+      "answerable_wrongly_refused": 2,
+      "unanswerable_wrongly_passed": 4
+    }
+  },
+  "min_score_used": 0.3,
+  "n_chunks": 115,
+  "per_question": [
+    {
+      "question": "How long is a blocked account usually opened for?",
+      "answerable": true,
+      "top_score": 0.5261646509170532,
+      "rank_of_correct_source": 1,
+      "retrieved": [
+        "aa-sperrkonto",
+        "aa-sperrkonto",
+        "aa-sperrkonto",
+        "aa-sperrkonto"
+      ]
+    },
+    {
+      "question": "Who is the account beneficiary of a blocked account?",
+      "answerable": true,
+      "top_score": 0.5544660091400146,
+      "rank_of_correct_source": 1,
+      "retrieved": [
+        "aa-sperrkonto",
+        "aa-sperrkonto",
+        "aa-sperrkonto",
+        "aa-sperrkonto"
+      ]
+    },
+    {
+      "question": "How do I close a blocked account if my visa application was rejected?",
+      "answerable": true,
+      "top_score": 0.7559515237808228,
+      "rank_of_correct_source": 1,
+      "retrieved": [
+        "aa-sperrkonto",
+        "aa-sperrkonto",
+        "aa-sperrkonto",
+        "aa-sperrkonto"
+      ]
+    },
+    {
+      "question": "Do I have to pay bank fees on top of the amount in the blocked account?",
+      "answerable": true,
+      "top_score": 0.5672744512557983,
+      "rank_of_correct_source": 1,
+      "retrieved": [
+        "aa-sperrkonto",
+        "aa-sperrkonto",
+        "aa-sperrkonto",
+        "aa-sperrkonto"
+      ]
+    },
+    {
+      "question": "Where can I find out how much money has to be paid into the blocked account?",
+      "answerable": true,
+      "top_score": 0.591012179851532,
+      "rank_of_correct_source": 1,
+      "retrieved": [
+        "aa-sperrkonto",
+        "aa-sperrkonto",
+        "aa-sperrkonto",
+        "aa-sperrkonto"
+      ]
+    },
+    {
+      "question": "Besides a blocked account, how else can I prove that I can finance my studies for a student visa?",
+      "answerable": true,
+      "top_score": 0.535959005355835,
+      "rank_of_correct_source": null,
+      "retrieved": [
+        "aa-sperrkonto",
+        "aa-sperrkonto",
+        "aa-sperrkonto",
+        "ua-apply-online"
+      ]
+    },
+    {
+      "question": "Do I need a visa before entering Germany if I want to study for more than 90 days?",
+      "answerable": true,
+      "top_score": 0.7166903018951416,
+      "rank_of_correct_source": 1,
+      "retrieved": [
+        "aa-visa-faq",
+        "aa-visa-faq",
+        "aa-visa-faq",
+        "aa-visa-faq"
+      ]
+    },
+    {
+      "question": "Which authority has to approve a student visa application?",
+      "answerable": true,
+      "top_score": 0.46806347370147705,
+      "rank_of_correct_source": 1,
+      "retrieved": [
+        "aa-visa-faq",
+        "ua-faq-documents",
+        "ua-faq-documents",
+        "aa-visa-faq"
+      ]
+    },
+    {
+      "question": "How long can it take to get a student visa?",
+      "answerable": true,
+      "top_score": 0.49573349952697754,
+      "rank_of_correct_source": 1,
+      "retrieved": [
+        "aa-visa-faq",
+        "tum-dea",
+        "aa-visa-faq",
+        "aa-visa-faq"
+      ]
+    },
+    {
+      "question": "How long does my passport need to be valid when I enter Germany?",
+      "answerable": true,
+      "top_score": 0.7541334629058838,
+      "rank_of_correct_source": 1,
+      "retrieved": [
+        "aa-visa-faq",
+        "aa-visa-faq",
+        "aa-visa-faq",
+        "aa-visa-faq"
+      ]
+    },
+    {
+      "question": "What are the steps to apply through uni-assist?",
+      "answerable": true,
+      "top_score": 0.7354298233985901,
+      "rank_of_correct_source": 1,
+      "retrieved": [
+        "ua-6-steps",
+        "ua-apply-online",
+        "ua-faq-send-track",
+        "ua-faq-send-track"
+      ]
+    },
+    {
+      "question": "How early should I apply via uni-assist before the deadline?",
+      "answerable": true,
+      "top_score": 0.6664043664932251,
+      "rank_of_correct_source": 1,
+      "retrieved": [
+        "ua-faq-send-track",
+        "ua-faq-send-track",
+        "ua-faq-send-track",
+        "ua-faq-send-track"
+      ]
+    },
+    {
+      "question": "How long does uni-assist take to deliver the evaluation result?",
+      "answerable": true,
+      "top_score": 0.7795164585113525,
+      "rank_of_correct_source": 1,
+      "retrieved": [
+        "ua-faq-send-track",
+        "ua-faq-send-track",
+        "ua-faq-send-track",
+        "ua-faq-send-track"
+      ]
+    },
+    {
+      "question": "In what file format should I upload my documents to uni-assist?",
+      "answerable": true,
+      "top_score": 0.7091000080108643,
+      "rank_of_correct_source": 1,
+      "retrieved": [
+        "ua-sending",
+        "ua-sending",
+        "ua-faq-send-track",
+        "ua-faq-apply-online"
+      ]
+    },
+    {
+      "question": "Do I need to send my documents to uni-assist by post?",
+      "answerable": true,
+      "top_score": 0.6827312707901001,
+      "rank_of_correct_source": 1,
+      "retrieved": [
+        "ua-sending",
+        "ua-faq-send-track",
+        "ua-faq-documents",
+        "ua-faq-send-track"
+      ]
+    },
+    {
+      "question": "What should I do if my certificates were not issued in German or English?",
+      "answerable": true,
+      "top_score": 0.5661901235580444,
+      "rank_of_correct_source": 1,
+      "retrieved": [
+        "ua-faq-documents",
+        "ua-faq-documents",
+        "ua-other-documents",
+        "ua-faq-documents"
+      ]
+    },
+    {
+      "question": "If I apply to several universities through uni-assist, do I have to upload each document multiple times?",
+      "answerable": true,
+      "top_score": 0.6869649887084961,
+      "rank_of_correct_source": 1,
+      "retrieved": [
+        "ua-sending",
+        "ua-sending",
+        "ua-faq-documents",
+        "ua-sending"
+      ]
+    },
+    {
+      "question": "What does VPD stand for in the uni-assist process?",
+      "answerable": true,
+      "top_score": 0.6435966491699219,
+      "rank_of_correct_source": 1,
+      "retrieved": [
+        "ua-faq-send-track",
+        "ua-faq-send-track",
+        "ua-faq-send-track",
+        "ua-6-steps"
+      ]
+    },
+    {
+      "question": "What must be written at the top of a letter of motivation for uni-assist?",
+      "answerable": true,
+      "top_score": 0.5069641470909119,
+      "rank_of_correct_source": 1,
+      "retrieved": [
+        "ua-other-documents",
+        "ua-apply-online",
+        "ua-6-steps",
+        "ua-6-steps"
+      ]
+    },
+    {
+      "question": "What are the application periods for the Data Engineering and Analytics master's at TUM?",
+      "answerable": true,
+      "top_score": 0.5895261168479919,
+      "rank_of_correct_source": 1,
+      "retrieved": [
+        "tum-dea",
+        "tum-dea",
+        "tum-dea",
+        "tum-dea"
+      ]
+    },
+    {
+      "question": "How high are the tuition fees for international students in TUM's Data Engineering and Analytics master's?",
+      "answerable": true,
+      "top_score": 0.6957058906555176,
+      "rank_of_correct_source": 1,
+      "retrieved": [
+        "tum-dea",
+        "tum-dea",
+        "tum-dea",
+        "tum-dea"
+      ]
+    },
+    {
+      "question": "What is the language of instruction in TUM's Data Engineering and Analytics master's?",
+      "answerable": true,
+      "top_score": 0.5713856220245361,
+      "rank_of_correct_source": 1,
+      "retrieved": [
+        "tum-dea",
+        "tum-dea",
+        "tum-dea",
+        "tum-dea"
+      ]
+    },
+    {
+      "question": "How many ECTS credits does the TUM Data Engineering and Analytics master's have?",
+      "answerable": true,
+      "top_score": 0.5724600553512573,
+      "rank_of_correct_source": 1,
+      "retrieved": [
+        "tum-dea",
+        "tum-dea",
+        "tum-dea",
+        "tum-dea"
+      ]
+    },
+    {
+      "question": "How does TUM select applicants for its master's programs?",
+      "answerable": true,
+      "top_score": 0.733208179473877,
+      "rank_of_correct_source": 1,
+      "retrieved": [
+        "tum-dea",
+        "tum-dea",
+        "tum-dea",
+        "tum-dea"
+      ]
+    },
+    {
+      "question": "Do I need an APS certificate as a Nepali student?",
+      "answerable": false,
+      "top_score": 0.48016080260276794,
+      "rank_of_correct_source": null,
+      "retrieved": [
+        "ua-faq-documents",
+        "ua-faq-documents",
+        "ua-faq-documents",
+        "ua-faq-documents"
+      ]
+    },
+    {
+      "question": "What IELTS score does TUM require for the Data Engineering and Analytics master's?",
+      "answerable": false,
+      "top_score": 0.5810723304748535,
+      "rank_of_correct_source": null,
+      "retrieved": [
+        "tum-dea",
+        "tum-dea",
+        "tum-dea",
+        "tum-dea"
+      ]
+    },
+    {
+      "question": "What exact amount in euros do I have to deposit in the blocked account this year?",
+      "answerable": false,
+      "top_score": 0.5787789821624756,
+      "rank_of_correct_source": null,
+      "retrieved": [
+        "aa-sperrkonto",
+        "aa-sperrkonto",
+        "aa-sperrkonto",
+        "aa-sperrkonto"
+      ]
+    },
+    {
+      "question": "How much does a German student visa application cost?",
+      "answerable": false,
+      "top_score": 0.6589502096176147,
+      "rank_of_correct_source": null,
+      "retrieved": [
+        "tum-dea",
+        "aa-visa-faq",
+        "aa-visa-faq",
+        "tum-dea"
+      ]
+    },
+    {
+      "question": "What are the tuition fees at Heidelberg University?",
+      "answerable": false,
+      "top_score": 0.634893536567688,
+      "rank_of_correct_source": null,
+      "retrieved": [
+        "tum-dea",
+        "tum-dea",
+        "tum-dea",
+        "ua-apply-online"
+      ]
+    },
+    {
+      "question": "Who won the 2022 football World Cup?",
+      "answerable": false,
+      "top_score": 0.15982381999492645,
+      "rank_of_correct_source": null,
+      "retrieved": [
+        "ua-faq-documents",
+        "aa-sperrkonto",
+        "ua-faq-documents",
+        "aa-visa-faq"
+      ]
+    }
+  ],
+  "llm": "ollama:qwen2.5:3b",
+  "answers": [
+    {
+      "question": "How long is a blocked account usually opened for?",
+      "answerable": true,
+      "answered": false,
+      "answer": "I don't know. I could not find this in my document collection, so I would rather not guess. Please check the official source (for example the German embassy, DAAD or the university).",
+      "auto_correct": false,
+      "seconds": 39.7,
+      "top_score": 0.5261646509170532
+    },
+    {
+      "question": "Who is the account beneficiary of a blocked account?",
+      "answerable": true,
+      "answered": true,
+      "answer": "[1] The account beneficiary of a blocked account is either the mission abroad where you applied for the visa (before the granting and/or use of the visa) or the competent foreigners authority (after arrival in the country).",
+      "auto_correct": true,
+      "seconds": 35.4,
+      "top_score": 0.5544660091400146
+    },
+    {
+      "question": "How do I close a blocked account if my visa application was rejected?",
+      "answerable": true,
+      "answered": false,
+      "answer": "I don't know. I could not find this in my document collection, so I would rather not guess. Please check the official source (for example the German embassy, DAAD or the university).",
+      "auto_correct": false,
+      "seconds": 37.7,
+      "top_score": 0.7559515237808228
+    },
+    {
+      "question": "Do I have to pay bank fees on top of the amount in the blocked account?",
+      "answerable": true,
+      "answered": false,
+      "answer": "I don't know. I could not find this in my document collection, so I would rather not guess. Please check the official source (for example the German embassy, DAAD or the university).",
+      "auto_correct": false,
+      "seconds": 27.6,
+      "top_score": 0.5672744512557983
+    },
+    {
+      "question": "Where can I find out how much money has to be paid into the blocked account?",
+      "answerable": true,
+      "answered": true,
+      "answer": "[1] You can find out what amount has to be paid in to the blocked account based on the purpose of your stay on the website of the competent mission abroad or in the Consular Services Portal.",
+      "auto_correct": true,
+      "seconds": 8.0,
+      "top_score": 0.591012179851532
+    },
+    {
+      "question": "Besides a blocked account, how else can I prove that I can finance my studies for a student visa?",
+      "answerable": true,
+      "answered": false,
+      "answer": "I don't know. I could not find this in my document collection, so I would rather not guess. Please check the official source (for example the German embassy, DAAD or the university).",
+      "auto_correct": false,
+      "seconds": 17.3,
+      "top_score": 0.535959005355835
+    },
+    {
+      "question": "Do I need a visa before entering Germany if I want to study for more than 90 days?",
+      "answerable": true,
+      "answered": true,
+      "answer": "Yes, all foreigners staying in Germany for more than 90 days wanting to work or study in Germany need a visa before entering Germany. [1]",
+      "auto_correct": true,
+      "seconds": 38.6,
+      "top_score": 0.7166903018951416
+    },
+    {
+      "question": "Which authority has to approve a student visa application?",
+      "answerable": true,
+      "answered": true,
+      "answer": "The foreigners authority has to approve a student visa application. [1]",
+      "auto_correct": true,
+      "seconds": 38.8,
+      "top_score": 0.46806347370147705
+    },
+    {
+      "question": "How long can it take to get a student visa?",
+      "answerable": true,
+      "answered": true,
+      "answer": "Several weeks, in individual cases even months. Applicants are encouraged to read all the relevant information on the respective German mission's website carefully before their appointment and hand in only complete paperwork. This is the best way to assure a speedy process. [1]",
+      "auto_correct": true,
+      "seconds": 41.8,
+      "top_score": 0.49573349952697754
+    },
+    {
+      "question": "How long does my passport need to be valid when I enter Germany?",
+      "answerable": true,
+      "answered": true,
+      "answer": "It needs to be valid at least for another three months when you enter Germany.",
+      "auto_correct": true,
+      "seconds": 34.9,
+      "top_score": 0.7541334629058838
+    },
+    {
+      "question": "What are the steps to apply through uni-assist?",
+      "answerable": true,
+      "answered": true,
+      "answer": "Apply in 6 steps - uni-assist\n1. Get information in advance\n2. Plan your application\n3. Apply online through My assist\n4. Upload required documents in My assist\n5. Submit missing documents if any\n6. Changes and final submission",
+      "auto_correct": false,
+      "seconds": 43.9,
+      "top_score": 0.7354298233985901
+    },
+    {
+      "question": "How early should I apply via uni-assist before the deadline?",
+      "answerable": true,
+      "answered": true,
+      "answer": "You should apply at least 8 weeks before the application deadline expires if possible.",
+      "auto_correct": true,
+      "seconds": 35.5,
+      "top_score": 0.6664043664932251
+    },
+    {
+      "question": "How long does uni-assist take to deliver the evaluation result?",
+      "answerable": true,
+      "answered": true,
+      "answer": "uni-assist takes 4 to 6 weeks to deliver the evaluation result.",
+      "auto_correct": true,
+      "seconds": 35.9,
+      "top_score": 0.7795164585113525
+    },
+    {
+      "question": "In what file format should I upload my documents to uni-assist?",
+      "answerable": true,
+      "answered": false,
+      "answer": "I don't know. I could not find this in my document collection, so I would rather not guess. Please check the official source (for example the German embassy, DAAD or the university).",
+      "auto_correct": false,
+      "seconds": 38.0,
+      "top_score": 0.7091000080108643
+    },
+    {
+      "question": "Do I need to send my documents to uni-assist by post?",
+      "answerable": true,
+      "answered": true,
+      "answer": "No, you do not need to send documents to uni-assist by post. The application via uni-assist is fully digital. Simply upload all of the required documents in your My assist account. [2]",
+      "auto_correct": true,
+      "seconds": 32.9,
+      "top_score": 0.6827312707901001
+    },
+    {
+      "question": "What should I do if my certificates were not issued in German or English?",
+      "answerable": true,
+      "answered": true,
+      "answer": "If your certificates were not issued in German or English, you should upload an additional certified translation into German or English.",
+      "auto_correct": true,
+      "seconds": 43.7,
+      "top_score": 0.5661901235580444
+    },
+    {
+      "question": "If I apply to several universities through uni-assist, do I have to upload each document multiple times?",
+      "answerable": true,
+      "answered": true,
+      "answer": "No. You can upload each document once only, even if you are applying to multiple universities or for several courses of study.",
+      "auto_correct": true,
+      "seconds": 31.1,
+      "top_score": 0.6869649887084961
+    },
+    {
+      "question": "What does VPD stand for in the uni-assist process?",
+      "answerable": true,
+      "answered": true,
+      "answer": "VPD stands for Preliminary Review Documentation in the uni-assist process.",
+      "auto_correct": true,
+      "seconds": 35.9,
+      "top_score": 0.6435966491699219
+    },
+    {
+      "question": "What must be written at the top of a letter of motivation for uni-assist?",
+      "answerable": true,
+      "answered": true,
+      "answer": "Name your chosen university and the course of study you are applying to visibly and in bold print at the top of your letter of motivation. [1]",
+      "auto_correct": true,
+      "seconds": 33.5,
+      "top_score": 0.5069641470909119
+    },
+    {
+      "question": "What are the application periods for the Data Engineering and Analytics master's at TUM?",
+      "answerable": true,
+      "answered": true,
+      "answer": "[3] Application Period\nWinter semester: 01.02. \u2013 31.05.\nSummer semester: 01.10. \u2013 30.11.",
+      "auto_correct": true,
+      "seconds": 31.6,
+      "top_score": 0.5895261168479919
+    },
+    {
+      "question": "How high are the tuition fees for international students in TUM's Data Engineering and Analytics master's?",
+      "answerable": true,
+      "answered": true,
+      "answer": "6,000 euros per semester. [3]",
+      "auto_correct": true,
+      "seconds": 29.4,
+      "top_score": 0.6957058906555176
+    },
+    {
+      "question": "What is the language of instruction in TUM's Data Engineering and Analytics master's?",
+      "answerable": true,
+      "answered": true,
+      "answer": "English",
+      "auto_correct": true,
+      "seconds": 29.7,
+      "top_score": 0.5713856220245361
+    },
+    {
+      "question": "How many ECTS credits does the TUM Data Engineering and Analytics master's have?",
+      "answerable": true,
+      "answered": true,
+      "answer": "120 ECTS",
+      "auto_correct": true,
+      "seconds": 33.9,
+      "top_score": 0.5724600553512573
+    },
+    {
+      "question": "How does TUM select applicants for its master's programs?",
+      "answerable": true,
+      "answered": true,
+      "answer": "TUM selects applicants for its master's programs through an aptitude assessment procedure, which includes evaluating grades from the Bachelor\u2019s program and written documents using a point system. Applicants are either immediately admitted, rejected, or invited to an admissions interview based on the amount of points accumulated.",
+      "auto_correct": true,
+      "seconds": 46.7,
+      "top_score": 0.733208179473877
+    },
+    {
+      "question": "Do I need an APS certificate as a Nepali student?",
+      "answerable": false,
+      "answered": false,
+      "answer": "I don't know. I could not find this in my document collection, so I would rather not guess. Please check the official source (for example the German embassy, DAAD or the university).",
+      "auto_correct": true,
+      "seconds": 1.0,
+      "top_score": 0.48016080260276794
+    },
+    {
+      "question": "What IELTS score does TUM require for the Data Engineering and Analytics master's?",
+      "answerable": false,
+      "answered": false,
+      "answer": "I don't know. I could not find this in my document collection, so I would rather not guess. Please check the official source (for example the German embassy, DAAD or the university).",
+      "auto_correct": true,
+      "seconds": 13.2,
+      "top_score": 0.5810723304748535
+    },
+    {
+      "question": "What exact amount in euros do I have to deposit in the blocked account this year?",
+      "answerable": false,
+      "answered": false,
+      "answer": "I don't know. I could not find this in my document collection, so I would rather not guess. Please check the official source (for example the German embassy, DAAD or the university).",
+      "auto_correct": true,
+      "seconds": 23.6,
+      "top_score": 0.5787789821624756
+    },
+    {
+      "question": "How much does a German student visa application cost?",
+      "answerable": false,
+      "answered": false,
+      "answer": "I don't know. I could not find this in my document collection, so I would rather not guess. Please check the official source (for example the German embassy, DAAD or the university).",
+      "auto_correct": true,
+      "seconds": 27.7,
+      "top_score": 0.6589502096176147
+    },
+    {
+      "question": "What are the tuition fees at Heidelberg University?",
+      "answerable": false,
+      "answered": false,
+      "answer": "I don't know. I could not find this in my document collection, so I would rather not guess. Please check the official source (for example the German embassy, DAAD or the university).",
+      "auto_correct": true,
+      "seconds": 21.7,
+      "top_score": 0.634893536567688
+    },
+    {
+      "question": "Who won the 2022 football World Cup?",
+      "answerable": false,
+      "answered": false,
+      "answer": "I don't know. I could not find this in my document collection, so I would rather not guess. Please check the official source (for example the German embassy, DAAD or the university).",
+      "auto_correct": true,
+      "seconds": 0.0,
+      "top_score": 0.15982381999492645
+    }
+  ],
+  "answer_summary": {
+    "answerable_auto_correct": 18,
+    "answerable_total": 24,
+    "unanswerable_correctly_refused": 6,
+    "unanswerable_total": 6
+  }
+}
